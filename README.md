@@ -1,1 +1,1 @@
-# tweetCheck => Analyze Twitter posts for specific keywords or phrases.
+# tweetCheck => Checks the content of the latest post at a set interval. If all conditions are met, it returns a predefined value from the post and notifies you using Node Notifier.
