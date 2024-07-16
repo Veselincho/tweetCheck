@@ -1,0 +1,20 @@
+{
+  "name": "xpostcontentchecker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "TweetCheck.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "clipboardy": "^4.0.0",
+    "dotenv": "^16.4.5",
+    "node-notifier": "^10.0.1",
+    "open": "^10.1.0",
+    "playwright": "^1.45.1"
+  }
+}
