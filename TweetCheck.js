@@ -82,3 +82,5 @@ async function copyToClipboard(value) {
     process.exit();
   });
 })();
+
+
